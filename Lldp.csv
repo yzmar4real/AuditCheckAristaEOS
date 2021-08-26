@@ -1,0 +1,2 @@
+Switch,Local Port,Remote Device,Remote Port
+veos01,Ethernet38,Arista22,Ten-GigabitEthernet1/0/47

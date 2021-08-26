@@ -1,0 +1,2 @@
+Switch,Description,Bandwidth,VLANID,DUPLEX,INTF_TYPE,LINK STATUS
+veos01,Nexus,0,200,duplexUnknown,1000BASE-T,notconnect
