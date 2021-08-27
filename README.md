@@ -2,7 +2,7 @@
 This repository is the result of an audit requirement for understanding the current state of devices within an Arista network. It is built to help engineers understand the state of their network by using the python pyeapi library from Arista EOS.
 
 ## Overview
-![High Level Workflow](Overview.jpg)
+![High Level Workflow](Workflow.jpg)
 
 **Specifc Use Case**: 
 
