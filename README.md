@@ -12,9 +12,7 @@ The specific use case for this repo is in situations where you just joined a com
 
 The script is written in python using the pyeapi library from Arista to connect to devices, filter out specific information and store output in a CSV file.
 
-**Genie** 
-
-**Output**: The results of the CLI commands are stored in simple .txt file: (L1.txt) ![Sample Output](OutputSnapshot-001.jpg)
+**Output**: The results of the CLI commands are stored in simple .txt file: (veos01Output.txt) ![Sample Output](Output.jpg)
 
 ## Contacts
 *Oluyemi Oshunkoya (yemi_o@outlook.com)
