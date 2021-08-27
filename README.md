@@ -51,6 +51,7 @@ python3 -m venv .
 source bin/activate
 
 pip install pyeapi
+
 pip install pandas
 
 5. Edit the pyeapi load file (./eapi/.conf), and the devlist.csv files with your infrastructure setup.
