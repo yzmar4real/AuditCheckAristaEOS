@@ -12,7 +12,11 @@ The specific use case for this repo is in situations where you just joined a com
 
 The script is written in python using the pyeapi library from Arista to connect to devices, filter out specific information and store output in a CSV file.
 
-**Output**: The results of the CLI commands are stored in simple .txt file: (veos01Output.txt) ![Sample Output](Output.jpg)
+**Output**: 
+
+The results of the CLI commands are stored in simple .txt file: (veos01Output.txt) ![Sample Output](Output.jpg)
+
+The structured outcomes of the audit workflow are stored in csv files (arp.csv,lldp.csv,interface.csv,mac.csv,device.csv)
 
 ## Contacts
 *Oluyemi Oshunkoya (yemi_o@outlook.com)
