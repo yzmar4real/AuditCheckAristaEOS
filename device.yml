@@ -1,0 +1,15 @@
+devices:
+  Home-switch2:
+    connections:
+      cli:
+        ip: 10.56.0.9
+        protocol: ssh
+    credentials:
+      default:
+        password: natfmg123
+        username: netcom
+      enable:
+        password: natfmg123
+    os: iosxe
+    type: iosxe
+    alias: Home-Switch2
